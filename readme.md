@@ -2,8 +2,8 @@
 
 **Foi utilizado as seguintes tecnlogias no projeto.**
 
-- [x] *HTML.*
-- [x] *JavaScript.*
+- [x] **HTML.**
+- [x] **JavaScript.**
 
 Na parte do **HTML** foi utilizado apenas para execução do **Script**, feito toda a parte de inserção do **HTML**,
 via **JavaScript** feito utilização de uso da **mémoria** da máquina para armazenar a **to do list**, utilizado função de **Adicionar** novas informações ao **to do list** e a função **Deletar** as informações criadas.
@@ -11,4 +11,5 @@ via **JavaScript** feito utilização de uso da **mémoria** da máquina para ar
 ### Projeto Criado Junto ao Curso RocketSeat.
 [RocketSeat](https://app.rocketseat.com.br/starter)
 
-#### Douglas Coelho.
+### Douglas Coelho.
+[GitHub Repositories](https://github.com/douglasruuan?tab=repositories)
